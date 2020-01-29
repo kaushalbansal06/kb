@@ -3,7 +3,13 @@
   <style>
     .blink{
             animation:Define 1.5s infinite;
-      }
+      }@keyframes Define{
+    0%{color: aliceblue;}
+    20%{color: antiquewhite;}
+    50%{color: aqua;}
+    80%{color: bisque;}
+    100%{color: black;}
+  }
   </style>
   <body>
    <header>  
