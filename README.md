@@ -48,8 +48,9 @@
      <hr>
     <h1>C++ PROJECTS</h1>
     <ul>
-    <li><a href="https://citengg.blogspot.com/p/behrouz-forouzancomputer-networks4th.html">Bank Management System</a></li>
-    <li><a href="https://accounting-simplified.com/financial/introduction/what-is-accounting.html">Library Management System</a></li>
+    <li><a href="https://www.codewithc.com/wp-content/uploads/2014/06/Banking-Record-System-C-Project.zip">Bank Management System</a></li>
+    <li><a href="https://www.codewithc.com/wp-content/uploads/2014/05/Supermarket-Billing-System-C-Project.zip">Supermarket Billing System</a></li>
+    <li><a href="https://www.codewithc.com/wp-content/uploads/2014/11/Hostel-Management-System-Project-in-VB.NET_.zip">Hotel Management System</a></li>
     </ul>
     <hr>
     MORE LINKS WILL BE UPDATED SOON!
