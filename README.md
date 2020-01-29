@@ -37,7 +37,7 @@
     <li><a href="https://www.geeksforgeeks.org/array-data-structure/">Array</a></li>
     <li><a href="https://www.geeksforgeeks.org/data-structures/linked-list/">Linked List</a></li>
     <li><a href="https://www.geeksforgeeks.org/java/">Java</a></li>
-    </ol></ul>
+    </ol>
     <hr>
     <h1>BOOKS</h1>
     <ul>
@@ -60,6 +60,6 @@
     <li><a href="https://www.codewithc.com/wp-content/uploads/2014/11/Hostel-Management-System-Project-in-VB.NET_.zip">Hotel Management System</a></li>
     </ul>
     <hr>
-    MORE LINKS WILL BE UPDATED SOON!
+    MORE LINKS WILL BE UPDATED SOON!</hr>
   </body>
 </html>
