@@ -36,8 +36,10 @@
     <hr>
     <h1>BOOKS</h1>
     <ul>
-    <li><a href="https://www.learncbse.in/ncert-accountancy-book/">Accountants</a></li>
-    
+    <li><a href="https://drive.google.com/open?id=1JHpjUhQsIRYr4yARXQHyZMupgmszJvMz">Accountants +1 Part_1</a></li>
+    <li><a href="https://drive.google.com/open?id=12m6tO_vpSsx7CBzAWwcnVLACZ4FI5ATI">Accountants +1 Part_2</a></li>
+    <li><a href="https://drive.google.com/open?id=1JKn8cH1CRbTAMH75ret4fbUnapKc6ZGr">Accountants +2 Part_1</a></li>
+    <li><a href="https://drive.google.com/open?id=1ZbINr7SJWgEmXQ28N1BNwTNq-ASLN5Hd">Accountants +2 Part_2</a></li>
     </ul>
      <hr>
     <h1>PROGRAMS</h1>
