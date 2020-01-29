@@ -28,11 +28,16 @@
     <hr>
     <h1>SOME USEFULL EDUCATIONAL  SITES</h1>
 <ul>
-    <li><a href="https://citengg.blogspot.com/p/behrouz-forouzancomputer-networks4th.html">Computer Network</a></li>
+    <li><a href="https://citengg.blogspot.com/p/behrouz-forouzancomputer-networks4th.html">Computer Network PPTs</a></li>
+    <li><a href="https://www.geeksforgeeks.org/computer-network-tutorials/">Computer Network</a></li>
     <li><a href="https://accounting-simplified.com/financial/introduction/what-is-accounting.html">Accountancy Simplified</a></li>
     <li><a href="https://www.pdfdrive.com">pdfdrive</a></li>
-   <li><a href="mcastyle.css">pdfdrive</a></li>
-    </ul>
+    <li><a href="https://www.geeksforgeeks.org/c-plus-plus/">C++</a></li>
+    </ul><ul><li> Data Structure<ol>
+    <li><a href="https://www.geeksforgeeks.org/array-data-structure/">Array</a></li>
+    <li><a href="https://www.geeksforgeeks.org/data-structures/linked-list/">Linked List</a></li>
+    <li><a href="https://www.geeksforgeeks.org/java/">Java</a></li>
+    </ol></ul>
     <hr>
     <h1>BOOKS</h1>
     <ul>
