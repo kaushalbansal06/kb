@@ -1,5 +1,10 @@
 <htlm>
   <head><title>kaushalbanal06.github.io/kb</title></head>
+  <style>
+    .blink{
+            animation:Define 1.5s infinite;
+      }
+  </style>
   <body>
    <header>  
         <h1>***MCA NOTES***</h1>
