@@ -1,4 +1,4 @@
-<htlm>
+<html>
   <head><title>kaushalbanal06.github.io/kb</title></head>
   <style>
     .blink{
@@ -33,11 +33,12 @@
     <li><a href="https://accounting-simplified.com/financial/introduction/what-is-accounting.html">Accountancy Simplified</a></li>
     <li><a href="https://www.pdfdrive.com">pdfdrive</a></li>
     <li><a href="https://www.geeksforgeeks.org/c-plus-plus/">C++</a></li>
-    </ul><ul><li> Data Structure<ol>
+    <li><a href="https://www.geeksforgeeks.org/java/">Java</a></li> 
+    </ul>
+    <ul><li> Data Structure<ol>
     <li><a href="https://www.geeksforgeeks.org/array-data-structure/">Array</a></li>
     <li><a href="https://www.geeksforgeeks.org/data-structures/linked-list/">Linked List</a></li>
-    <li><a href="https://www.geeksforgeeks.org/java/">Java</a></li>
-    </ol>
+  </ol></li></ul>
     <hr>
     <h1>BOOKS</h1>
     <ul>
@@ -60,6 +61,6 @@
     <li><a href="https://www.codewithc.com/wp-content/uploads/2014/11/Hostel-Management-System-Project-in-VB.NET_.zip">Hotel Management System</a></li>
     </ul>
     <hr>
-    MORE LINKS WILL BE UPDATED SOON!</hr>
+    MORE LINKS WILL BE UPDATED SOON!
   </body>
 </html>
