@@ -42,10 +42,12 @@
     <hr>
     <h1>BOOKS</h1>
     <ul>
-    <li><a href="https://drive.google.com/open?id=1JHpjUhQsIRYr4yARXQHyZMupgmszJvMz">Accountants +1 Part_1</a></li>
-    <li><a href="https://drive.google.com/open?id=12m6tO_vpSsx7CBzAWwcnVLACZ4FI5ATI">Accountants +1 Part_2</a></li>
-    <li><a href="https://drive.google.com/open?id=1JKn8cH1CRbTAMH75ret4fbUnapKc6ZGr">Accountants +2 Part_1</a></li>
-    <li><a href="https://drive.google.com/open?id=1ZbINr7SJWgEmXQ28N1BNwTNq-ASLN5Hd">Accountants +2 Part_2</a></li>
+    <li><a href="https://drive.google.com/open?id=1FiqdL2QHgiHYMY-tDqMWZpO5qbljyDZ5">Accountants +1 Part_1</a></li>
+    <li><a href="https://drive.google.com/open?id=12a4SVzQwW9Uj0IqIk27jswZiS37GVZD9">Accountants +1 Part_2</a></li>
+    <li><a href="https://drive.google.com/open?id=1YsSy8MNEIRQ21k3QBJdnYDzUzb0Bx6bu">Accountants +2 Part_1</a></li>
+    <li><a href="https://drive.google.com/open?id=1fbkA8z0rwfE1G78A2KAdXZCFipD59K1q">Accountants +2 Part_2</a></li>
+    <li><a href="https://drive.google.com/open?id=1c9y1fRM5HqGOA7XzmVRgFYxVgb77VNi-">Data Communication & Network</a></li>
+    <li><a href="https://drive.google.com/open?id=1z9I28FZX-XoNfhJLeWAmBs_pHnePwxBs">C++</a></li>
     </ul>
      <hr>
     <h1>PROGRAMS</h1>
