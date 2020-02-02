@@ -51,8 +51,7 @@
         <nav>  
 
         </nav>
-    </header><p id="date" style="text-align:right;"></p>
-		<p id="time" style="text-align:right;"></p>
+    </header>
 	<h1>POWERPOINT PRESENTATION</h1>
    
     <ul>   <li> 2ND SEMESTER<i> <span class="blink">(Last update:02-Feb-2020)</span></i>
@@ -106,5 +105,7 @@
     </ul>
     <hr>
     MORE LINKS WILL BE UPDATED SOON!
+    <p id="date"></p>
+    <p id="time"></p>
   </body>
 </html>
