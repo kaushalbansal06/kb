@@ -51,9 +51,10 @@
         <nav>  
 
         </nav>
-    </header><h1>POWERPOINT PRESENTATION</h1>
-    <h4><p id="date"></p>
-		<p id="time"></p></h4>
+    </header> <h6 style="text-align:right;"><p id="date"></p>
+		<p id="time"></p></h6>
+	<h1>POWERPOINT PRESENTATION</h1>
+   
     <ul>   <li> 2ND SEMESTER<i> <span class="blink">(Last update:02-Feb-2020)</span></i>
               <ol>
            <li><a href="https://drive.google.com/open?id=1nenoD3E8nFiK6T95NzEw3reJKcSfD0gU">Accounts</a></li>
