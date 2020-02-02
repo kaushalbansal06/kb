@@ -105,7 +105,7 @@
     </ul>
     <hr>
     MORE LINKS WILL BE UPDATED SOON!
-    <p id="date"></p>
-    <p id="time"></p>
+    <p id="date"  style="text-align:center;"></p>
+    <p id="time" style="text-align:center;"></p>
   </body>
 </html>
