@@ -104,8 +104,12 @@
     <li><a href="https://www.codewithc.com/wp-content/uploads/2014/11/Hostel-Management-System-Project-in-VB.NET_.zip">Hotel Management System</a></li>
     </ul>
     <hr>
+    <ul>
     MORE LINKS WILL BE UPDATED SOON!
+	</ul>
+	<ul>
     <p id="date"  style="text-align:center;"></p>
     <p id="time" style="text-align:center;"></p>
+	</ul>
   </body>
 </html>
