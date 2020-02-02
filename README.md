@@ -1,5 +1,33 @@
 <html>
-  <head><title>kaushalbanal06.github.io/kb</title></head>
+  <head><title>kaushalbanal06.github.io/kb</title>
+  <script type="text/javascript">
+    window.onload = setInterval(clock,1000);
+
+    function clock()
+    {
+	  var d = new Date();
+	  
+	  var date = d.getDate();
+	  
+	  var month = d.getMonth();
+	  var montharr =["Jan","Feb","Mar","April","May","June","July","Aug","Sep","Oct","Nov","Dec"];
+	  month=montharr[month];
+	  
+	  var year = d.getFullYear();
+	  
+	  var day = d.getDay();
+	  var dayarr =["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"];
+	  day=dayarr[day];
+	  
+	  var hour =d.getHours();
+    	  var min = d.getMinutes();
+	  var sec = d.getSeconds();
+	
+	  document.getElementById("date").innerHTML=day+" "+date+" "+month+" "+year;
+	  document.getElementById("time").innerHTML=hour+":"+min+":"+sec;
+    }
+  </script>
+  </head>
   <style>
     .blink{
             animation:Define 1.5s infinite;
@@ -10,6 +38,12 @@
     80%{color: bisque;}
     100%{color: black;}
   }
+		p
+		{
+			font-family: sans-serif;
+			font-weight: bold;
+			font-size:  20px;
+		}
   </style>
   <body>
    <header>  
@@ -17,6 +51,8 @@
         <nav>  
 
         </nav>
+    <p id="date"></p>
+		<p id="time"></p>
     </header><h1>POWERPOINT PRESENTATION</h1>
     <ul>   <li> 2ND SEMESTER<i> <span class="blink">(Last update:29-Jan-2020)</span></i>
               <ol>
@@ -39,6 +75,11 @@
     <li><a href="https://www.geeksforgeeks.org/array-data-structure/">Array</a></li>
     <li><a href="https://www.geeksforgeeks.org/data-structures/linked-list/">Linked List</a></li>
   </ol></li></ul>
+    <hr>
+    <h1>SYLLABUS</h1>
+    <ul>
+    <li><a href="https://drive.google.com/open?id=1KEKmY7typRKpH95Z5440jrilSrqWixVu">MCA</a></li>
+    </ul>
     <hr>
     <h1>BOOKS</h1>
     <ul>
