@@ -53,8 +53,8 @@
         </nav>
     </header>
     <marquee>
-     <p id="date"  style="text-align:center;"></p>
-    <p id="time" style="text-align:center;"></p>
+     <p id="date"></p>
+    <p id="time"></p>
     </marquee>
 	<h1>POWERPOINT PRESENTATION</h1>
    
