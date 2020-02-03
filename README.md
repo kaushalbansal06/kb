@@ -42,7 +42,7 @@
   {
 	font-family: sans-serif;
 	font-weight: bold;
-	font-size:  12px;
+	font-size:  16px;
   }
   </style>
   <body>
@@ -53,8 +53,8 @@
         </nav>
     </header>
     <marquee>
-     <h6 id="date"></h6>
-    <h6 id="time"></h6>
+     <p id="date"></p>
+    <p id="time"></p>
     </marquee>
 	<h1>POWERPOINT PRESENTATION</h1>
    
