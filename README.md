@@ -92,6 +92,7 @@
     <li><a href="https://drive.google.com/open?id=1YsSy8MNEIRQ21k3QBJdnYDzUzb0Bx6bu">Accountants +2 Part 1</a></li>
     <li><a href="https://drive.google.com/open?id=1fbkA8z0rwfE1G78A2KAdXZCFipD59K1q">Accountants +2 Part 2</a></li>
     <li><a href="https://drive.google.com/open?id=1c9y1fRM5HqGOA7XzmVRgFYxVgb77VNi-">Data Communication & Network</a></li>
+    <li><a href="https://drive.google.com/open?id=1DdkAMUQU_JiWWwv33tJg2hjHy8_TNULH">Numerical Method</a></li>
     <li><a href="https://drive.google.com/open?id=1z9I28FZX-XoNfhJLeWAmBs_pHnePwxBs">C++</a></li>
     </ul>
      <hr>
