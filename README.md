@@ -58,7 +58,7 @@
     </marquee>
 	<h1>POWERPOINT PRESENTATION</h1>
    
-    <ul>   <li> 2ND SEMESTER<i> <span class="blink">(Last update:02-Feb-2020)</span></i>
+    <ul>   <li> 2ND SEMESTER<i> <span class="blink">(Last update:06-Feb-2020)</span></i>
               <ol>
            <li><a href="https://drive.google.com/open?id=1nenoD3E8nFiK6T95NzEw3reJKcSfD0gU">Accounts</a></li>
            <li><a href="https://drive.google.com/open?id=1Z5rZ09ueSjYWbfGax8y7by5sy4yvio8g">Numerical Method</a></li>
@@ -80,9 +80,10 @@
     <li><a href="https://www.geeksforgeeks.org/data-structures/linked-list/">Linked List</a></li>
   </ol></li></ul>
     <hr>
-    <h1>SYLLABUS</h1>
+    <h1>SYLLABUS & Previous Paper</h1>
     <ul>
     <li><a href="https://drive.google.com/open?id=1KEKmY7typRKpH95Z5440jrilSrqWixVu">MCA</a></li>
+    <li><a href="https://drive.google.com/open?id=1OhOZi4020TAM1Higm7uurWEZN95GzMKS">Previous Year Paper</a></li>
     </ul>
     <hr>
     <h1>BOOKS</h1>
