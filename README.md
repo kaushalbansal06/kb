@@ -58,7 +58,7 @@
     </marquee>
 	<h1>POWERPOINT PRESENTATION</h1>
    
-    <ul>   <li> 2ND SEMESTER<i> <span class="blink">(Last update:06-Feb-2020)</span></i>
+    <ul>   <li> 2ND SEMESTER<i> <span class="blink">(Last update:06-April-2020)</span></i>
               <ol>
            <li><a href="https://drive.google.com/open?id=1nenoD3E8nFiK6T95NzEw3reJKcSfD0gU">Accounts</a></li>
            <li><a href="https://drive.google.com/open?id=1Z5rZ09ueSjYWbfGax8y7by5sy4yvio8g">Numerical Method</a></li>
