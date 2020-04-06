@@ -78,6 +78,7 @@
     <ul><li> Data Structure<ol>
     <li><a href="https://www.geeksforgeeks.org/array-data-structure/">Array</a></li>
     <li><a href="https://www.geeksforgeeks.org/data-structures/linked-list/">Linked List</a></li>
+    <li><a href="https://www.geeksforgeeks.org/stack-data-structure/">Stack</a></li>
   </ol></li></ul>
     <hr>
     <h1>SYLLABUS & Previous Paper</h1>
