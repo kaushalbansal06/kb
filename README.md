@@ -102,6 +102,7 @@
     <h1>PROGRAMS</h1>
     <ul>
     <li><a href="kaushal69.html">C++ Programs</a></li>
+    <li><a href="python.html">Python Programs</a></li>
     <li><a href="https://accounting-simplified.com/financial/introduction/what-is-accounting.html">Data Structure Programs</a></li>
     </ul>
      <hr>
