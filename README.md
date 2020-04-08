@@ -73,7 +73,8 @@
     <li><a href="https://accounting-simplified.com/financial/introduction/what-is-accounting.html">Accountancy Simplified</a></li>
     <li><a href="https://www.pdfdrive.com">pdfdrive</a></li>
     <li><a href="https://www.geeksforgeeks.org/c-plus-plus/">C++</a></li>
-    <li><a href="https://www.geeksforgeeks.org/java/">Java</a></li> 
+    <li><a href="https://www.geeksforgeeks.org/java/">Java</a></li>
+    <li><a href="https://docs.python.org/3/tutorial/">Python</a></li>
     </ul>
     <ul><li> Data Structure<ol>
     <li><a href="https://www.geeksforgeeks.org/array-data-structure/">Array</a></li>
